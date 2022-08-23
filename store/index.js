@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { createWrapper } from "next-redux-wrapper";
-import { monthSlice } from "./modules/MonthSlice";
+import { monthSlice } from "./modules/monthSlice";
 
 const makeStore = () => 
     configureStore({
