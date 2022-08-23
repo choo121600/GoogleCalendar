@@ -1,4 +1,4 @@
-import AddScheduleBtn from '../components/addScheduleBtn'
+import AddScheduleBtn from '../components/AddScheduleBtn'
 import AddScheduleModal from '../components/AddScheduleModal'
 import MainHeader from '../components/MainHeader'
 import MainCalendar from '../components/MainCalendar'
